@@ -1,4 +1,5 @@
 `timescale 1ns / 1ps
+`default_nettype none
 
 module neptuno_top (
     clk,           // Input clock on development board: 50Mhz
