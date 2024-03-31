@@ -1,5 +1,5 @@
-LED Test for Neptuno FPGA
---------------------------
+LED Test for Neptuno FPGA & Neturri variant.
+--------------------------------------------
 
 Based on QMTECH's examples.
 
